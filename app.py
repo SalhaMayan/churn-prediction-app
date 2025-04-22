@@ -30,7 +30,7 @@ st.markdown(
 )
 
 st.markdown("<h2 style='text-align: left;'>Customer Churn Prediction</h2>", unsafe_allow_html=True)
-st.markdown("This application predicts customer churn using a Random Forest Classifier, based on customer profile and behavior."")
+st.markdown("This application predicts customer churn using a Random Forest Classifier, based on customer profile and behavior.")
 st.markdown("---")
 st.markdown("### Customer Profile")
 
